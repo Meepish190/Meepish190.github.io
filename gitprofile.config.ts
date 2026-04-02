@@ -119,7 +119,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  education: [
+  educations: [
     {
       institution: 'Modesto Junior College',
       degree: 'Associate of Arts',
